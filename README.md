@@ -1,3 +1,9 @@
+# Chapter Four of the Pragmatic Programmer 
+  An idea from the chapter that I really liked was the importances of crashing your application. It's something that I would normally think of doing. Since the end goal is to having a working application and so I would think that you would want perfect code on the first try (which is definetly something that is really hard to do) and you wouldn't want bugs in your code. The importance of errors and how they give you information towards better code. I liked the topic of assertive programming and the whole idea that "if you don't think it could happen then add a block of code". I feel like that is a very helpful idea and something that I want to include more in programming. 
+
+
+
+
 # Chapter Two of the Pragmatic Programmer 
   An I idea from the chapter that I agree on is the idea on the importance of orthogonality in code. The way the author present the idea at first seem really weird but after each example (and especially the helicopter example), the idea started making more and more sense. I also liked that the authore presented ways code can become nonorthogonality. Because it gave great insight on how things that I would think was okay would be wrong and the author clearly explained why that would be wrong and how that can be a bad practice. Which is quite helpful on seeing the way that I can improve.
   
