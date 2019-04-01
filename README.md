@@ -1,3 +1,12 @@
+# 12 Factor 
+  A facor that didn't really make sense is the dependencies. I personally just found the wording quite confusing and hard to follow through. I wish it went through a lot more details on the topic of dependencies. 
+  
+  The <b> Config </b> factor was quite interesting to read and after reading it I can understand why developers should store config files and code seperately. However, when the article went on to explain how to seperate the two, it seemed quite confusing. I also found the topic of  <b> Backing Service </b> to be interesting. The idea of treating databases as seperate attached resources seems to help with cleaner code and deployment. As well as help fix issues without breaking the whole code structure. <b> Port Binding </b> while it seemed familiar, like homework 8 and in class web service, it was also quite confusing to understand the information and why this way is better than other ways. 
+  
+  The <b> Build, Release, and Run </b> factor was a lot similiar to ideas discussed in classes. That build, releases, and runs should be seperated and not commited into the GitHub repo. <b> Process </b> factor seems to fit and support the Build, Release, and Run factor. This whole idea of making sure code and builds seperate and making an app stateless.
+  
+   This fits in to the project because it gives an insight to how a team should go about deploying a app which is exactly what our classes is doing. It also helps prepare us for the real world software engineering. 
+
 # Chapter Seven of the Pragmatic Programmer 
   An idea from this chapter that I really is Tip 58 : Don't Be a Slave to Formal Methods. I feel like a lot of people, even I, enjoy being in a sort of bubble when doing thing. Like <b> everything </b>  has to follow a pattern or its not being done correctly. Which can be sometimes very limiting to creativity and prevent finding solutions to problems. One of my favorite things I learned in my web design talked about something quite similar: don't limit or throw out the crazy ideas because even the crazy ideas can lead to solutions. Which is something that I feel like is very true in a lot of cases. I feel like that tip 58 ties into this quite simiarly because that use of structure can be a way of blocking what really needs to be done. I liked the idea that the formal method was just another tool as well. The formal method can be quite helpful but it's not the only way to get something done. It is a tool to help.
   
